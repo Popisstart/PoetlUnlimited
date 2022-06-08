@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+<html>
+<script>
+window.location.href = "https://fwesh.yonle.repl.co/";
+console.log("Another user has been rickrolled!")
+</script>
+</html>
